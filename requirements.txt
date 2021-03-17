@@ -1,0 +1,12 @@
+aiobotocore
+aiohttp
+aiosmtplib
+fastapi
+gunicorn
+httptools
+jinja2
+loguru
+lxml
+python-dotenv
+slack_sdk
+uvicorn

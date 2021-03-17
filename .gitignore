@@ -1,0 +1,8 @@
+.env
+build/
+__pycache__
+.vscode/
+old/
+cache.sqlite3
+env/
+logs/
